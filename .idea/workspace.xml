@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16ba2e81-a384-4fe0-ab15-4ce02878f6bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bookstore/bookstore.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bookstore/rpc/model/book.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../greet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emit_log_direct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emit_log_topic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receive_logs_direct.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/receive_logs_topic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/hello/b.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/test/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/tieba/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../a.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/bee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/bee.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/beeapi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/beego_blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bin/blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hello.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pkg/linux_amd64/github.com/astaxie/beego.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l1/conf/conf.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l1/conf/conf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l1/consumer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l1/consumer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l1/producer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l1/producer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l2/conf/conf.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l2/conf/conf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l2/consumer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l2/consumer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l2/producer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l2/producer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l3/conf/conf.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l3/conf/conf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l3/consumer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l3/consumer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l3/producer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l3/producer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l4/conf/conf.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l4/conf/conf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l4/consumer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l4/consumer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l4/producer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l4/producer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l5/conf/conf.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l5/conf/conf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l5/consumer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l5/consumer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l5/producer/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l5/producer/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l6/client/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l6/client/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l6/conf/conf.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l6/conf/conf.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmqExample/l6/server/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmqExample/l6/server/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/conf/app.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/controllers/default.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/controllers/hello.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/routers/router.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/static/js/reload.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/tests/default_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/blog/views/index.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/Echosong/beego_blog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/astaxie/beego" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/beego/bee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/go-sql-driver/mysql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/github.com/shiena/ansicolor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.go" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1p5fBUEqHM2R2IXGLWLsUDDFsQ4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build rabbit" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="rabbit" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="rabbit" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build rabbit" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="622" y="291" key="#Custom_Plugin_Repositories" timestamp="1614482661294">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="622" y="291" key="#Custom_Plugin_Repositories/0.23.1440.807@0.23.1440.807" timestamp="1614482661294" />
+    <state width="1358" height="134" key="GridCell.Tab.0.bottom" timestamp="1614479592104">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1358" height="134" key="GridCell.Tab.0.bottom/0.23.1440.807@0.23.1440.807" timestamp="1614479592104" />
+    <state width="1358" height="134" key="GridCell.Tab.0.center" timestamp="1614479592103">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1358" height="134" key="GridCell.Tab.0.center/0.23.1440.807@0.23.1440.807" timestamp="1614479592103" />
+    <state width="1358" height="134" key="GridCell.Tab.0.left" timestamp="1614479592103">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1358" height="134" key="GridCell.Tab.0.left/0.23.1440.807@0.23.1440.807" timestamp="1614479592103" />
+    <state width="1358" height="134" key="GridCell.Tab.0.right" timestamp="1614479592104">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state width="1358" height="134" key="GridCell.Tab.0.right/0.23.1440.807@0.23.1440.807" timestamp="1614479592104" />
+    <state x="218" y="40" key="SettingsEditor" timestamp="1614482964730">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="218" y="40" key="SettingsEditor/0.23.1440.807@0.23.1440.807" timestamp="1614482964730" />
+    <state x="409" y="156" width="615" height="490" key="find.popup" timestamp="1614478266522">
+      <screen x="0" y="23" width="1440" height="807" />
+    </state>
+    <state x="409" y="156" width="615" height="490" key="find.popup/0.23.1440.807@0.23.1440.807" timestamp="1614478266522" />
+  </component>
+</project>
